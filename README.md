@@ -1,10 +1,10 @@
-## Fashion Cut in the Wild (Deep Clothes Cutout)
+## Fashion Cut in the Wild (Clothes Cutout System)
 [[Project]](https://liuziwei7.github.io/projects/DeepFashion.html) [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)   
 
 <img src='./misc/demo.gif' width=360>
 
 ## Overview
-`Deep Clothes Cutout` is a clothes cutout framework based on [dense CRF](http://graphics.stanford.edu/projects/densecrf/). Given a fashion image and its [fashion landmarks](https://liuziwei7.github.io/projects/FashionLandmarks.html), this software segments the potential clothing item in it. 
+`Clothes Cutout System` is a clothes cutout framework based on [dense CRF](http://graphics.stanford.edu/projects/densecrf/). Given a fashion image and its [fashion landmarks](https://liuziwei7.github.io/projects/FashionLandmarks.html), this software segments the potential clothing item in it. 
 
 ## Requirements
 * [dense CRF](http://www.philkr.net/papers/2011-12-01-nips/densecrf_v_2_2.zip)
