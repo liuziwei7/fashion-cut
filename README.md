@@ -6,6 +6,8 @@
 ## Overview
 `Clothes Cutout System` is a clothes cutout framework based on [dense CRF](http://graphics.stanford.edu/projects/densecrf/). Given a fashion image and its [fashion landmarks](https://liuziwei7.github.io/projects/FashionLandmarks.html), this software segments the potential clothing item in it. 
 
+Further information please contact [Shen Tan](https://www.linkedin.com/in/shentan) and [Ziwei Liu](https://liuziwei7.github.io/).
+
 ## Requirements
 * [dense CRF](http://www.philkr.net/papers/2011-12-01-nips/densecrf_v_2_2.zip)
 
